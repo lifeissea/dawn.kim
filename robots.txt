@@ -1,0 +1,10 @@
+User-agent: Googlebot
+Disallow:
+
+User-agent: Yeti
+Disallow:
+
+User-agent: *
+Disallow: /admin/
+Disallow: /temp/
+Disallow: /private/
