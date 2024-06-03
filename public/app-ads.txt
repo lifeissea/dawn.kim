@@ -1,5 +1,8 @@
 Resellers as of April 17, 2024
-yandex.com, 302299575, DIRECT
+pangleglobal.com, Account ID, DIRECT
+google.com, pub-9863715824208886, DIRECT, f08c47fec0942fa0
+fyber.com,229199,DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 betweendigital.com, 43554, RESELLER
 openx.com, 541177349, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
@@ -280,8 +283,7 @@ adform.com, 2904, RESELLER
 appnexus.com, 14416, RESELLER
 orangeclickmedia.com, C-1054, RESELLER
 spinx.biz, 1373698864, RESELLER
-google.com, pub-9863715824208886, DIRECT, f08c47fec0942fa0
-fyber.com,229199,DIRECT
+
 acd.op.hicloud.com,PUB_HW_1003,RESELLER
 adform.com,2688,RESELLER,9f5210a2f0999e32
 adform.com,2967,RESELLER,9f5210a2f0999e32
