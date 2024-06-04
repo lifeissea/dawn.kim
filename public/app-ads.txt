@@ -73,6 +73,7 @@ outbrain.com,0023749a2264ea0429a71b54ac9ca0de9a,RESELLER
 outbrain.com,002d7f7ba0bd74452f2b155d0dfb5cd6c8,RESELLER
 playwire.com,1025119,RESELLER
 prequel.tv,517,RESELLER
+pubmatic.com,161490,RESELLER,5d62403b186f2ace
 pubmatic.com,157559,RESELLER,5d62403b186f2ace
 pubmatic.com,157899,RESELLER,5d62403b186f2ace
 pubmatic.com,158060,RESELLER,5d62403b186f2ace
