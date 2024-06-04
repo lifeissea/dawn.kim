@@ -1,5 +1,3 @@
-import Head from "next/head";
-
 //components
 import Hero from "@/components/Hero";
 import About from "@/components/About";
@@ -11,22 +9,14 @@ import Footer from "@/components/Footer";
 
 export default function Home() {
 	return (
-		<>
-			<Head>
-				<meta
-					name="facebook-domain-verification"
-					content="o8kln1ppmlh5w99e719pbx4jitw81a"
-				/>
-			</Head>
-			<main className="main">
-				<Hero />
-				<About />
-				<Services />
-				<Portfolio />
-				<Testimonials />
-				<Contact />
-				<Footer />
-			</main>
-		</>
+		<main className="main">
+			<Hero />
+			<About />
+			<Services />
+			<Portfolio />
+			<Testimonials />
+			<Contact />
+			<Footer />
+		</main>
 	);
 }
