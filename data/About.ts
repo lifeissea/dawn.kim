@@ -17,11 +17,11 @@ export const profile = {
     { label: "주소 :", value: "서울시 마포구, 대한민국" },
     { label: "현재 상태 :", value: "열일 중" },
   ],
-  button: {
-    text: "이력서 다운로드",
-    href: "https://moredawn.notion.site/Tomas-d9dfd6b9e749410aa3d4e9483e2818d2",
-    icon: React.createElement(BsDownload),
-  },
+  // button: {
+  //   text: "이력서 다운로드",
+  //   href: "https://moredawn.notion.site/Tomas-d9dfd6b9e749410aa3d4e9483e2818d2",
+  //   icon: React.createElement(BsDownload),
+  // },
 };
 
 export const features = [
